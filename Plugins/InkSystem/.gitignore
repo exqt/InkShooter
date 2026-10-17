@@ -1,0 +1,27 @@
+# Unreal Engine generated files
+/Binaries/
+/Intermediate/
+/Saved/
+/DerivedDataCache/
+
+# IDE caches and generated project files
+.vs/
+.idea/
+.vscode/
+.Rider/
+*.sln
+*.suo
+*.user
+*.vcxproj
+*.vcxproj.filters
+*.sdf
+*.opensdf
+*.opendb
+*.VC.db
+*.xcodeproj/
+*.xcworkspace/
+
+# Operating system metadata
+.DS_Store
+Thumbs.db
+Desktop.ini
